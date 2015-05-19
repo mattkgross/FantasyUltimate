@@ -1,0 +1,4 @@
+ErrorDocument 403 /ulti/403.html
+ErrorDocument 404 /ulti/404.html
+
+

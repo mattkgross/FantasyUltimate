@@ -1,0 +1,7 @@
+# Begin password protection #
+AuthName "Admin Protected Area"
+Require valid-user
+AuthUserFile "/home/users/web/b455/ipg.mattkgrosscom/ulti/userCakeV2.0.1/.htpasswd"
+AuthType basic
+# End password protection #
+

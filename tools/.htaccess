@@ -1,0 +1,7 @@
+# Begin password protection #
+AuthName "Protected Site Tools"
+Require valid-user
+AuthUserFile "/home/users/web/b455/ipg.mattkgrosscom/ulti/tools/.htpasswd"
+AuthType basic
+# End password protection #
+
